@@ -17,11 +17,13 @@
 * Теоретический минимум Big Data(Учебник);
 * Чистый Python (Учебник);
 * В работу с головой. Паттерны успеха от IT-специалиста (Книга);
-* <span style="color:red">Изучаем программирование на Python(Учебник);</span> 
 * Лекции по DevOps;
 * Devops для начинающих + Практический опыт (Stepik);
 * Тренажер SQL(Stepik)
-* <span style="color:red">Kubernetes для начинающих + Практический опыт (Stepik);</span>
 * “Поколение  Python”  Курс для начинающих (Stepik);
 * Базовый linux (rotoro.cloud)
+
+__
 * <span style="color:red">Что такое тестирование. Курс молодого бойца</span>
+* <span style="color:red">Изучаем программирование на Python(Учебник);</span> 
+* <span style="color:red">Kubernetes для начинающих + Практический опыт (Stepik);</span>
